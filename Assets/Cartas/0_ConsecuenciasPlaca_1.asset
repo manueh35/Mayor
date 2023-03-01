@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98dbe6c079368ea4b8f424c3303696be, type: 3}
+  m_Name: 0_ConsecuenciasPlaca_1
+  m_EditorClassIdentifier: 
+  id: 0
+  nombreCarta: Eclipse
+  descripcionCarta: Tras depender demasiado de las placas solares varios dias sin
+    sol dejan sin luz al pueblo
+  textoIzq: ...
+  textoDer: ...
+  imagen: {fileID: 21300000, guid: 7f54b04f23ac9ba41b7dfee5e308ee0b, type: 3}
+  izqElect: -2
+  izqGente: -1
+  izqFelic: 0
+  izqDinero: 0
+  izqComida: 0
+  derElect: -2
+  derGente: -1
+  derFelic: 0
+  derDinero: 0
+  derComida: 0
+  sigIDizq: 0
+  sigIDder: 0
+  aleatoria: 1

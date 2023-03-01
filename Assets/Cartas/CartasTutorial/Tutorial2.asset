@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98dbe6c079368ea4b8f424c3303696be, type: 3}
+  m_Name: Tutorial2
+  m_EditorClassIdentifier: 
+  id: 1
+  nombreCarta: Tutorial2
+  descripcionCarta: al tomar decisiones se modifican las estadisticas
+  textoIzq: fijate en las estadisticas de energia y dinero
+  textoDer: fijate en las estadisticas de felicidad y comida
+  imagen: {fileID: 21300000, guid: da648f2b6a6250b4b94fd3a2ab058a5f, type: 3}
+  izqElect: 3
+  izqGente: 0
+  izqFelic: 0
+  izqDinero: -3
+  izqComida: 0
+  derElect: 0
+  derGente: 0
+  derFelic: 3
+  derDinero: 0
+  derComida: -3
+  sigIDizq: 2
+  sigIDder: 2
+  aleatoria: 0

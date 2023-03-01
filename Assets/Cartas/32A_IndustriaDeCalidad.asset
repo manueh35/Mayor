@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98dbe6c079368ea4b8f424c3303696be, type: 3}
+  m_Name: 32A_IndustriaDeCalidad
+  m_EditorClassIdentifier: 
+  id: 32
+  nombreCarta: Mejorar industria
+  descripcionCarta: Alcalde, si potenciamos la industria agroalimentaria de calidad,
+    nuestro pueblo se vera extremedamente favorecido!
+  textoIzq: Nada nada, todo para nosotros.
+  textoDer: Que buenisima idea, pongamos anuncios en internet para anunciarnos mas
+  imagen: {fileID: 21300000, guid: 0d9f2532fa7867745971e14f01f1c965, type: 3}
+  izqElect: 2
+  izqGente: -1
+  izqFelic: 1
+  izqDinero: 2
+  izqComida: 1
+  derElect: -1
+  derGente: 2
+  derFelic: 1
+  derDinero: 2
+  derComida: -1
+  sigIDizq: 0
+  sigIDder: 0
+  aleatoria: 1

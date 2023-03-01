@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98dbe6c079368ea4b8f424c3303696be, type: 3}
+  m_Name: 6_PlacasSolares
+  m_EditorClassIdentifier: 
+  id: 6
+  nombreCarta: PlacasSolares
+  descripcionCarta: La electricidad es un bien de primera necesidad, sustituir un
+    campo de cultivo por un campo de placas solares aportaria la electricidad necesaria
+  textoIzq: Si
+  textoDer: No
+  imagen: {fileID: 21300000, guid: bf5664cfce4bfb54fab1ce60ccdf426d, type: 3}
+  izqElect: 3
+  izqGente: -2
+  izqFelic: 0
+  izqDinero: -1
+  izqComida: -3
+  derElect: -1
+  derGente: 2
+  derFelic: 0
+  derDinero: 1
+  derComida: 3
+  sigIDizq: 0
+  sigIDder: 1
+  aleatoria: 0

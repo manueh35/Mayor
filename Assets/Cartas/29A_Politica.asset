@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98dbe6c079368ea4b8f424c3303696be, type: 3}
+  m_Name: 29A_Politica
+  m_EditorClassIdentifier: 
+  id: 29
+  nombreCarta: Politica
+  descripcionCarta: El gobierno no da margen para nuevas politicas prorurales, debemos
+    hacer algo!
+  textoIzq: Tienes toda la razon, manana voy a proponer en la sede nuevas medidas!
+  textoDer: No hay mucho que pueda hacer...
+  imagen: {fileID: 21300000, guid: 586d5ab7ecdc3fa48b20325db2004b04, type: 3}
+  izqElect: 0
+  izqGente: -1
+  izqFelic: 1
+  izqDinero: -3
+  izqComida: 0
+  derElect: 0
+  derGente: -1
+  derFelic: -1
+  derDinero: 2
+  derComida: 0
+  sigIDizq: 0
+  sigIDder: 0
+  aleatoria: 1

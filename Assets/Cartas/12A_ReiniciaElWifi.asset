@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98dbe6c079368ea4b8f424c3303696be, type: 3}
+  m_Name: 12A_ReiniciaElWifi
+  m_EditorClassIdentifier: 
+  id: 12
+  nombreCarta: Reinicia el wifi
+  descripcionCarta: "La conexi\xF3n a internet es malisima, deberiamos instalar antenas
+    de banda ancha"
+  textoIzq: SI que el Lol me va lento
+  textoDer: Pues a mi me va bien
+  imagen: {fileID: 21300000, guid: 2f41d04f09a1d2a428fefb132b11bc6f, type: 3}
+  izqElect: -1
+  izqGente: 2
+  izqFelic: 1
+  izqDinero: -1
+  izqComida: 0
+  derElect: 1
+  derGente: 0
+  derFelic: -1
+  derDinero: 1
+  derComida: 0
+  sigIDizq: 0
+  sigIDder: 0
+  aleatoria: 1

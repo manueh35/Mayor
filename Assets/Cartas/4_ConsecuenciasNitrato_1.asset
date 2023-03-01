@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98dbe6c079368ea4b8f424c3303696be, type: 3}
+  m_Name: 4_ConsecuenciasNitrato_1
+  m_EditorClassIdentifier: 
+  id: 4
+  nombreCarta: Contaminado
+  descripcionCarta: Un mal uso del nitrato de amonio contamina los cultivos de esta
+    temporada
+  textoIzq: "Parece que no sab\xEDan lo que hacian"
+  textoDer: "\xA1\xBFQUE?!"
+  imagen: {fileID: 21300000, guid: 8fd848557999ec24d966c0cb8ebfab8f, type: 3}
+  izqElect: 0
+  izqGente: -3
+  izqFelic: 0
+  izqDinero: -2
+  izqComida: 0
+  derElect: 0
+  derGente: -3
+  derFelic: 0
+  derDinero: -2
+  derComida: 0
+  sigIDizq: 0
+  sigIDder: 0
+  aleatoria: 1

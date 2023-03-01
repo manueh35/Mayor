@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98dbe6c079368ea4b8f424c3303696be, type: 3}
+  m_Name: 38A_MiHermano
+  m_EditorClassIdentifier: 
+  id: 38
+  nombreCarta: Mi hermano
+  descripcionCarta: Mi hermano quiere replantar el bosque que se quemo hace unos
+    anos pero carece de fondos...
+  textoIzq: Nada nada, la naturaleza se replantara ella sola
+  textoDer: Haremos una app que por cada hora que se utilice estudiando, se gane
+    fondos para plantar 1 arbol
+  imagen: {fileID: 21300000, guid: 633a8f418d4f72f498212fae77686247, type: 3}
+  izqElect: 0
+  izqGente: 0
+  izqFelic: -1
+  izqDinero: 1
+  izqComida: 0
+  derElect: 0
+  derGente: 0
+  derFelic: 2
+  derDinero: -1
+  derComida: 0
+  sigIDizq: 0
+  sigIDder: 0
+  aleatoria: 1
